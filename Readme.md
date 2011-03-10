@@ -16,6 +16,7 @@ starts a server with default `RAILS_ENV`(`development`) and database configured 
 TODO
 -------------
 
+- make it work as it dosn't!
 - rails3
 - tests
 
