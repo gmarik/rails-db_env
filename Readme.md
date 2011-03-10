@@ -1,7 +1,7 @@
 
 About
 -------------
-A `rails` development utility to help you quickly switch between configured databases.
+A `Rails` development utility to help you quickly switch between configured databases.
 
 Why and How
 -------------
@@ -16,10 +16,13 @@ starts a server with default `RAILS_ENV`(`development`) and database configured 
 TODO
 -------------
 
-- make it work as it dosn't!
-- rails3
+- support rails3
 - tests
 
+Also
+-------------
+make sure you know what you're doing: running development migration on production database might not be a good idea! 
+Use it on our own risc!
 
 
 
